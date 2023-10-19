@@ -45,6 +45,7 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <connections>
+                        <outlet property="butt" destination="DZT-cJ-jpm" id="9Nf-OI-QgV"/>
                         <outlet property="label" destination="7uH-mS-Mdg" id="ZjS-hp-g3s"/>
                         <outlet property="tfield" destination="I20-e4-uxH" id="slX-DH-sxU"/>
                     </connections>
